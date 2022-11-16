@@ -5,7 +5,7 @@ Testen des Zufalls in Unity.
   Um einnen Wert zu schaffen den niemand vorhersehen kann.
   
 ## Der Unterschied zwischen Unity und System Random:
-  UnityEngine.Random ist eine fixe Klasse die nur einmal pro Spiel eine Zufalls reihnfolge festlegt. System.Random legt für jede Random zahl eine neue Reighnfolge fest.
+  UnityEngine.Random ist eine fixe Klasse die nur einmal pro Spiel eine Zufalls reihnfolge festlegt. System.Random legt für jede Random zahl eine neue Reighnfolge fest. Bsp man will 2 mal die gleiche zufalls reihnfolge, dann nimmt man system.random. Wenn man unterschiediche reihnfolgen haben will nimmt man UnityEngine.Random.
  
 ## Warum Seed?
   Damit der Programmierer den Zufall vorraussehen kann.
