@@ -17,3 +17,7 @@ Testen des Zufalls in Unity.
   Bei Random.Value wird eine Zufallszahl ausgewählt
   Bei Random.Rotation eine Zufalls drehung
   Bei Random.ColorHSV eine zufällige Farbe
+  
++ Unity Version: 2020.3.18.f1
++ Visualstudio: 2019
++ OS: Windows 10
